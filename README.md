@@ -1,7 +1,7 @@
 ### About Me
 I am a Software Engineer specializing in Java and Back End Development. I also have experience working with JavaScript, Node.js, and React.
 
-<a href="https://linkedin.com/in/Willyanto39">
+<a href="https://linkedin.com/in/willyanto39">
   <img src="https://img.shields.io/badge/Visit%20My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Visit my Linkedin">
 </a>
 
